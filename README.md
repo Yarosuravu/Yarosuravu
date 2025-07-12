@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yarosuravu. 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning IoT, robotics, computer control systems
+- 👀 I’m interested in science fiction, aviation, space
+- 🌱 I’m currently learning IoT, ML, robotics, computer control systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Yaroslav_Kulik@i.ua
 
